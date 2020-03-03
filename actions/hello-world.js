@@ -10,7 +10,7 @@
   *
   * @return which must be a JSON object.
   *         It will be the output of this action.
-  *
+  * How does any of this work?
   */
 function main(params) {
   if (params.name) {
