@@ -14,7 +14,7 @@
   */
 function main(params) {
   if (params.name) {
-    return { greeting: `Hello world` };
+    return { greeting: `Hello world ${Date.now()}` };
   }
 }
 
